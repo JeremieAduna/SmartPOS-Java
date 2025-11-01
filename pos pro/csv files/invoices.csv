@@ -1,0 +1,16 @@
+Sales no.,Invoice ID,Customer ID,Customer Name,Total Qty,Total Bill,Status,Balance
+1,1,1,John Doe,6,22800.00,Unpaid,-22800.0
+2,1,1,John Doe,2,24500.00,Paid,0.0
+3,1,6,Mycho Nicodemus,4,17200.00,Partial,-7200.0
+4,1,4,Aelli Aduna,25,95000.00,Partial,-94000.0
+5,1,3,James Cruz,4,15200.00,Paid,0.0
+6,1,3,James Cruz,4,15200.00,Paid,0.0
+7,1,3,James Cruz,4,15200.00,Paid,0.0
+8,1,3,James Cruz,6,22800.00,Paid,0.0
+9,1,3,James Cruz,6,22800.00,Paid,0.0
+10,1,2,Jane Smith,6,25800.00,Partial,-10800.0
+11,2,2,Jane Smith,2,24500.00,Partial,-9500.0
+12,2,1,John Doe,1,12250.00,Unpaid,-12250.0
+13,3,3,James Cruz,14,53200.00,Unpaid,-53200.0
+
+,,,,,,,TOTAL BALANCE: -209750.00
